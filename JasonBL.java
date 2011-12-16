@@ -27,11 +27,8 @@ class JasonBL {
 	System.out.println("caffeinated: " +
 	caffeinated + " annoyed: " + annoyed +
 	" giddiness: " + giddiness);
-
     }	
-}
 
-class JasonBLDemo {
     public static void main(String[] args) {
 
 	// Creating two different JasonBL objects
